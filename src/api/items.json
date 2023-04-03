@@ -1,0 +1,62 @@
+[
+    {
+       "id": 1,
+       "title": "T-shirts with multiple colors, for men",
+       "price": 10.30,
+       "img": "t-shirt"     
+    },
+    {
+        "id": 2,
+        "title": "Jeans shorts for men blue color",
+        "price": 10.30,
+        "img": "jacket"     
+     },
+     {
+        "id": 3,
+        "title": "Brown winter coat medium size",
+        "price": 12.50,
+        "img": "coat"     
+     },
+     {
+        "id": 4,
+        "title": "Jeans bag for travel for men",
+        "price": 34.00,
+        "img": "bag"     
+     },
+     {
+        "id": 5,
+        "title": "Leather wallet",
+        "price": 99.00,
+        "img": "bag-school"     
+     },
+     {
+        "id": 6,
+        "title": "Canon camera black, 100x zoom",
+        "price": 9.99,
+        "img": "jeans"     
+     },
+     {
+        "id": 7,
+        "title": "Headset for gaming with mic",
+        "price": 8.99,
+        "img": "headphone2"     
+     },
+     {
+        "id": 8,
+        "title": "Smartwatch silver color modern",
+        "price": 10.30,
+        "img": "bag-school"     
+     },
+     {
+        "id": 9,
+        "title": "Blue wallet for men leather metarfial",
+        "price": 10.30,
+        "img": "container"     
+     },
+     {
+        "id": 10,
+        "title": "Jeans bag for travel for men",
+        "price": 80.95,
+        "img": "kettle2"     
+     }
+]

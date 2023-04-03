@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Soft chairs",
+        "manufacturer": "Embawood MMC",
+        "price": 19,
+        "img": "softchair",
+        "category": "Home interiors",
+        "sale": null
+    },
+    {
+        "title": "Sofa & chair",
+        "manufacturer": "Embawood MMC",
+        "price": 19,
+        "img": "sofachair",
+        "category": "Home interiors",
+        "sale": null
+    },
+    {
+        "title": "Kitchen dishes",
+        "manufacturer": "Embawood MMC",
+        "price": 19,
+        "img": "kitchenchair",
+        "category": "Home interiors",
+        "sale": null
+    },
+    {
+        "title": "Smart watches",
+        "manufacturer": "Embawood MMC",
+        "price": 19,
+        "img": "smart",
+        "category": "Home interiors",
+        "sale": null
+    },
+    {
+        "title": "Kitchen mixer",
+        "manufacturer": "Embawood MMC",
+        "price": 100,
+        "img": "kitchenmixer",
+        "category": "Home interiors",
+        "sale": null
+    },
+    {
+        "title": "Blenders",
+        "manufacturer": "Embawood MMC",
+        "price": 39,
+        "img": "blender",
+        "category": "Home interiors",
+        "sale": null
+    },
+    {
+        "title": "Home appliance",
+        "manufacturer": "Embawood MMC",
+        "price": 19,
+        "img": "homeappliance",
+        "category": "Home interiors",
+        "sale": null
+    },
+    {
+        "title": "Plant",
+        "manufacturer": "Embawood MMC",
+        "price": 10,
+        "img": "plant",
+        "category": "Home interiors",
+        "sale": null
+    }
+]

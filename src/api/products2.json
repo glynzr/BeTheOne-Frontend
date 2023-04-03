@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Smart watches",
+        "manufacturer": "Xiaomi",
+        "price": 250,
+        "img": "smartwatch2",
+        "category": "Computer and tech",
+        "sale": null
+    },
+    {
+        "title": "Cameras",
+        "manufacturer": "Polaroid",
+        "price": 89,
+        "img": "camera",
+        "category": "Computer and tech",
+        "sale": null
+    },
+    {
+        "title": "Headphones",
+        "manufacturer": "Logitech",
+        "price": 10,
+        "img": "headphone",
+        "category": "Computer and tech",
+        "sale": null
+    },
+    {   
+        "title": "Kettles",
+        "manufacturer": "Tefal",
+        "price": 90,
+        "img": "kettle",
+        "category": "Computer and tech",
+        "sale": null
+    },
+    {
+        "title": "Gaming set",
+        "manufacturer": "Razer",
+        "price": 35,
+        "img": "gamingheadphone",
+        "category": "Computer and tech",
+        "sale": null
+    },
+    {
+        "title": "Laptops & PC",
+        "manufacturer": "Lenovo",
+        "price": 340,
+        "img": "laptop",
+        "category": "Computer and tech",
+        "sale": null
+    },
+    {
+        "title": "Smartphones",
+        "manufacturer": "Apple",
+        "price": 19,
+        "img": "smartphone",
+        "category": "Computer and tech",
+        "sale": null
+    },
+    {
+        "title": "Iphones",
+        "manufacturer": "Samsung",
+        "price": 240,
+        "img": "iphone",
+        "category": "Computer and tech",
+        "sale": null
+    }
+]
